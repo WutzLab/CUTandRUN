@@ -1,0 +1,13 @@
+linux@Tomation:~/Sarah_CUTnRUN2/generate_annotation$ python3 GeneReference_build.py -i mm10_REFSEQgenes.txt -o Annotation
+
+***Generation of gene models library for HaSAPPy program***
+	Input file: mm10_REFSEQgenes.txt
+Started: 22-10-06 15:21:17
+	- Loading .txt file
+	- Redundant gene intervals management
+	- Define exonic regions
+	- Define intronic regions
+	- Saving file in: Annotation
+Gene models library generated
+	RunTime: 31.0
+
